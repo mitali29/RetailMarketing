@@ -8,3 +8,4 @@ Feature: I like to test facebook login page
       And I click sign in button
       Then I should be able to login in my facebook account
 
+## This is QA test.
